@@ -1,0 +1,23 @@
+{
+	"name": "alex0n/laravel5-doctrine",
+	"description": "An ORM for a Framework for Web Artisans",
+	"keywords": [
+		"doctrine",
+		"laravel",
+		"orm"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "alex0n",
+			"email": "alex0n.dev@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.5.0",
+	},
+	"bin": [
+		"bin/doctrine-laravel",
+		"bin/doctrine-laravel.php"
+	]
+}
